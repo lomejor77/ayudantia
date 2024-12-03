@@ -4,7 +4,7 @@
     <router-link to="/aves">Aves</router-link>
   </nav>
   <router-view/>
-</template>
+  </template>
 
 <style lang="scss">
 #app {
